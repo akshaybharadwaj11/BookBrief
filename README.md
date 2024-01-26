@@ -8,28 +8,19 @@ Top 10 popular novels from [Project Gutenberg](https://www.gutenberg.org)
 
 **Dependencies:**
 
-* Transformers
-
+Transformers
 `pip install transformers
 `
-
-* PyTorch
-
+PyTorch
 `pip install torch
 `
-
-* NLTK
-
+NLTK
 `pip install nltk
 `
-
-* PyLDAvis
-
+PyLDAvis
 `pip install pyldavis
 `
-
-* Gensim
-
+Gensim
 `pip install gensim
 `
 
