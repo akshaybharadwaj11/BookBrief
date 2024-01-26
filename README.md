@@ -12,18 +12,22 @@ Transformers
 
 `pip install transformers
 `
+
 PyTorch
 
 `pip install torch
 `
+
 NLTK
 
 `pip install nltk
 `
+
 PyLDAvis
 
 `pip install pyldavis
 `
+
 Gensim
 
 `pip install gensim
