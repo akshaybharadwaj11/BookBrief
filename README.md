@@ -1,4 +1,4 @@
-# BookBrief
+# BookBrief(WIP)
 
 A novel recommendation application powered by Language Models integrated with Knowledge Graphs.
 
